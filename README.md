@@ -42,7 +42,6 @@ If you have a project idea or need a collaborator, feel free to reach out—I’
 ## 📫 How to Reach Me  
 Let’s connect and create something amazing together!  
 - Email: techie.adi47@gmail.com
-- GitHub: [techieadi4703](https://github.com/techieadi4703)
 - LinkedIn: [techieadi4703](https://linkedin.com/in/techieadi4703)
 
 ---
