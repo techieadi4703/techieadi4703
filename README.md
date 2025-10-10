@@ -11,10 +11,6 @@ When I’m not working on tech projects, I enjoy brainstorming innovative soluti
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techieadi4703&show=prs_merged,prs_merged_percentage&show_icons=true&theme=github_dark_dimmed)
-
----
-
 ## 👀 Interests  
 - **Software Development**: Crafting efficient, scalable, and user-centric applications.  
 - **Emerging Technologies**: Staying updated with advancements in AI, machine learning, and cloud computing.  
