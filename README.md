@@ -1,59 +1,114 @@
-# 👋 Hi there, I’m Aditya (@techieadi4703)!  
+# 👋 Hi there, I’m Aditya Srivastava (@techieadi4703)
 
-Welcome to my GitHub profile, where ideas take shape, and innovation drives impact! 🚀  
+🚀 Full Stack Developer | AI Enthusiast | Problem Solver | Open Source Learner
 
----
+Welcome to my GitHub profile!
+I’m passionate about building impactful technology, solving real-world problems, and continuously pushing my limits through development, AI, and scalable systems.
 
-## 🚀 About Me  
-Hi, I’m Aditya – a passionate tech enthusiast, lifelong learner, and problem solver. My journey is fueled by curiosity and the desire to build meaningful solutions that solve real-world challenges. Whether it's developing robust applications or exploring cutting-edge technologies, I’m dedicated to making an impact through code.  
-
-When I’m not working on tech projects, I enjoy brainstorming innovative solutions and connecting with like-minded individuals who share a passion for technology.  
+From crafting modern web applications to exploring Generative AI and machine learning, I love turning ideas into meaningful products.
 
 ---
 
-## 👀 Interests  
-- **Software Development**: Crafting efficient, scalable, and user-centric applications.  
-- **Emerging Technologies**: Staying updated with advancements in AI, machine learning, and cloud computing.  
-- **Open Source**: Contributing to and learning from the global developer community.  
-- **Problem Solving**: Tackling challenges with creative and logical approaches.  
+## 🚀 About Me
+
+I’m a developer who enjoys combining creativity with engineering to build solutions that are both useful and scalable.
+
+Currently, I’m focused on:
+
+* Full-stack web development
+* Backend engineering
+* Artificial Intelligence & Generative AI
+* Fintech and AI-powered applications
+* Competitive programming & problem solving
+
+I enjoy working on ambitious projects that challenge me technically and help me grow as a developer.
 
 ---
 
-## 🌱 Currently Learning  
-I’m always exploring new domains and improving my skills. Currently, I’m diving into:  
-- Advanced programming and design patterns.  
-- The intersection of AI and real-world applications.  
-- Best practices for open-source contributions.  
-- Scalable systems and cloud-native technologies.  
+## 💻 Tech Stack
+
+### 🌐 Web Development
+
+* React.js
+* Next.js
+* Node.js
+* Express.js
+* Tailwind CSS
+* MongoDB
+
+### 🤖 AI & Machine Learning
+
+* Python
+* Deep Learning
+* NLP
+* LLM Applications
+* LangChain
+* Vector Databases (FAISS/Pinecone)
+
+### ⚙️ Tools & Technologies
+
+* Git & GitHub
+* Linux
+* REST APIs
+* Firebase
+* Postman
+* Docker (Learning)
+
+### 🧠 Problem Solving
+
+* Data Structures & Algorithms
+* Competitive Programming
+* System Design Fundamentals
 
 ---
 
-## 💞️ Let’s Collaborate!  
-I’m looking to connect and collaborate on:  
-- Open-source projects that make a difference.  
-- Innovative solutions leveraging AI and machine learning.  
-- Scalable applications in web and software development.  
-- Tech challenges that require creative, impactful solutions.  
+## 🌱 Currently Learning
 
-If you have a project idea or need a collaborator, feel free to reach out—I’d love to work with you!  
-
----
-
-## 📫 How to Reach Me  
-Let’s connect and create something amazing together!  
-- Email: techie.adi47@gmail.com
-- LinkedIn: [techieadi4703](https://linkedin.com/in/techieadi4703)
+* Advanced Backend Development
+* Scalable System Design
+* Deep Learning & NLP
+* Generative AI Applications
+* Cloud & DevOps Fundamentals
+* High-performance Full Stack Architectures
 
 ---
 
-## 😄 Pronouns  
-He/Him  
+## 💞️ Open to Collaborate On
+
+* Open-source projects
+* AI & ML applications
+* Full-stack development projects
+* Backend systems & APIs
+* Innovative hackathon ideas
+* Developer tools & productivity apps
+
+If you’re working on something exciting, let’s connect and build together!
 
 ---
 
-## ⚡ Fun Fact  
-I thrive on challenges and believe there’s always a solution waiting to be discovered!  
+## 📈 Goals for 2026
+
+* Become highly proficient in backend & AI engineering
+* Contribute consistently to open source
+* Build impactful AI products
+* Strengthen problem-solving skills
+* Create projects that solve real-world problems at scale
 
 ---
 
-✨ Let’s make the world better with technology! 🚀  
+## 📫 Connect With Me
+
+📧 Email: [techie.adi47@gmail.com](mailto:techie.adi47@gmail.com)
+💼 LinkedIn: https://linkedin.com/in/techieadi4703
+🐙 GitHub: https://github.com/techieadi4703
+
+---
+
+## ⚡ Fun Fact
+
+I genuinely enjoy building difficult projects because every challenge teaches something valuable.
+For me, coding is not just about writing programs — it’s about creating solutions that can make an impact.
+
+---
+
+✨ “Code. Learn. Build. Repeat.” 🚀
